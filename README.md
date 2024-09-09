@@ -21,6 +21,7 @@
 
 ## 项目结构
 
+```
 UWAIT-LearningMaterials/
 │
 ├── Documents/
@@ -30,3 +31,4 @@ UWAIT-LearningMaterials/
 ├── README.md
 ├── CITS-XXXX.md
 └── CITS-XXXX.md
+```
